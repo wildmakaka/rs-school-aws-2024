@@ -26,7 +26,7 @@ $ gcloud cloud-shell ssh
 ```
 
 
-# How to run in linux
+# How to run
 
 <br/>
 
