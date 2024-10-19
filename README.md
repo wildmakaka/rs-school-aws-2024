@@ -70,4 +70,13 @@ $ kubectl apply -f https://k8s.io/examples/pods/simple-pod.yaml
 $ kubectl get pods
 ```
 
+<br/>
+
+![Application](/img/kubectl.png)
+
+<br/>
+
+![Application](/img/k9s.png)
+
+
 That is all
