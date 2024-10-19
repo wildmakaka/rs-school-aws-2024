@@ -1,3 +1,31 @@
+# How to connect to cloud
+
+
+<br/>
+
+```
+$ cd ~/tmp
+
+$ curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-linux-x86_64.tar.gz
+
+$ tar -zxvf google-cloud-cli-linux-x86_64.tar.gz
+
+$ cd google-cloud-sdk/
+
+$ ./install.sh
+
+$ source ~/.bashrc
+```
+
+<br/>
+
+```
+// connect
+$ gcloud auth login
+$ gcloud cloud-shell ssh
+```
+
+
 # How to run in linux
 
 <br/>
@@ -72,7 +100,7 @@ $ kubectl get pods
 
 <br/>
 
-![Application](/img/Screenshot from 2024-10-19 13-56-08.png)
+![Application](/img/kubectl-shell.png)
 
 
 That is all
