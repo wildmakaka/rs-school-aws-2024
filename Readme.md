@@ -80,3 +80,15 @@ $ kubectl get pods
 
 
 That is all
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+**Marley**
+
+Any questions in english: <a href="https://gitops.ru/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://gitops.ru/chat/">Телеграм чат</a>
