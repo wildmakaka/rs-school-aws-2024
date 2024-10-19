@@ -72,11 +72,7 @@ $ kubectl get pods
 
 <br/>
 
-![Application](/img/kubectl.png)
-
-<br/>
-
-![Application](/img/k9s.png)
+![Application](/img/Screenshot from 2024-10-19 13-56-08.png)
 
 
 That is all
