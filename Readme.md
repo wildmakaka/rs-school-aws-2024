@@ -1,4 +1,8 @@
-# How to connect to cloud
+# [Task 4: Jenkins Installation and Configuration](https://github.com/rolling-scopes-school/tasks/blob/master/devops/modules/3_ci-configuration/task_4.md)
+
+<br/>
+
+### How to connect to cloud
 
 
 <br/>
